@@ -7,5 +7,6 @@
 </head>
 <body>
     This is laravel displayed in view folder present in resource
+    new line added
 </body>
 </html>
